@@ -3,7 +3,7 @@
 Name: Bhavishya,
 Registration No: 24MIP10115,
 Subject: Open Source Software,
-Slot: B22,
+Slot: B22
 
 
 This repository contains a technical audit and automated shell scripts developed for the **Capstone Project** at VIT Bhopal University. The project explores the origin, licensing, and Linux integration of Git, the world's most popular open-source version control system.
