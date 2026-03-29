@@ -1,10 +1,10 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: [Type Your Name Here]
+# Author: Bhavishya
 # Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Aryawart Gupta"
+STUDENT_NAME="Bhavishya"
 SOFTWARE_CHOICE="Git"
 
 # --- System Info ---
